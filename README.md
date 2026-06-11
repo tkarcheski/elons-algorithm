@@ -17,3 +17,9 @@ It produces a full markdown report under [`reports/`](./reports/).
 This repo is consumed as a **git submodule** at `.claude/skills/elons-algorithm/`
 inside the parent project so Claude Code can discover it. See [`SKILL.md`](./SKILL.md)
 for the full procedure.
+
+# ad
+
+[![Try Claude Code — free guest pass](https://img.shields.io/badge/Claude%20Code-free%20guest%20pass-D97757?logo=claude&logoColor=white)](https://claude.ai/referral/4Q8ajgGjHQ)
+
+> This repo is built with [Claude Code](https://claude.com/claude-code). Grab a guest pass above to try it yourself.
